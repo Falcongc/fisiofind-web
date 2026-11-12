@@ -27,4 +27,4 @@ Centralizado no bloco `:root` via variáveis CSS:
 1. Acesse o link público do **GitHub Pages** ou baixe o arquivo **index.html**.
 2. Abra o arquivo em qualquer navegador moderno.
 3. Na tela de login, clique em **Entrar no FisioFind**.
-4. Utilize a barra superior de demonstração para testar a queda da API de Agendamento (`HTTP 503`) e o modo de Alto Contraste WCAG.
+4. Utilize a barra superior de demonstração para testar a queda da API de Agendamento.
