@@ -5,7 +5,7 @@ Protótipo funcional desenvolvido para avaliação acadêmica de Design UX/UI, A
 ## 1. Justificativa das Tecnologias Utilizadas
 Embora o MVP mobile original do **FisioFind** tenha sido concebido em Flutter e Firebase, este protótipo web foi construído em **HTML5 Semântico, CSS3 (Design System com CSS Variables), Tailwind CSS e JavaScript Vanilla** para atender diretamente às exigências de inspeção estrutural de DOM, semântica web e validação prática das diretrizes de acessibilidade **WCAG 2.1**.
 
-## 2. Arquitetura Modular e Independência de Microserviços
+## 2. Arquitetura Modular e Independência de Serviços
 A interface foi dividida em componentes independentes (`<header>`, `<nav>`, `<main>`, `<section>` de Paciente, `<section>` de Catálogo e `<section>` de Agenda):
 - **Auth & Patient Service:** Carrega os dados cadastrais e prontuário do paciente (Michel Maciel Falcão).
 - **Catalog Service:** Renderiza os dados profissionais e registro CREFITO da especialista (Dra. Julia Henrique da Silva Falcão).
